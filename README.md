@@ -14,3 +14,7 @@ fuck my life i have oop exam tommorow and still all day postpone my study and wa
 and https://application.security/free-application-security-training/owasp-top-10-sql-injection and solve some exercisec on [lord of SQLI](https://los.rubiya.kr/)
 
 7:05 PM===>ok i started with cyber talent let is see what i will i do
+
+7:44 PM==>end Admin has the power challenge in cybertalent
+
+8:30 PM==>end hash3rror in cybertalent
