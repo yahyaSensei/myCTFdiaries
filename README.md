@@ -20,3 +20,5 @@ and https://application.security/free-application-security-training/owasp-top-10
 8:30 PM==>end hash3rror in cybertalent
 
 9:30 PM==>end who am i ? CTF in cyber talent
+
+10:00 PM==> end I am legend and modify code CTF in cybertalent
