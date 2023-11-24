@@ -18,3 +18,5 @@ and https://application.security/free-application-security-training/owasp-top-10
 7:44 PM==>end Admin has the power challenge in cybertalent
 
 8:30 PM==>end hash3rror in cybertalent
+
+9:30 PM==>end who am i ? CTF in cyber talent
