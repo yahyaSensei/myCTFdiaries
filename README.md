@@ -9,3 +9,6 @@ fuck my life i have oop exam tommorow and still all day postpone my study and wa
 ------2023/11/24--------
 
 8:26 AM===> i revised oop and i have online exam in 2:30 PM (I hope I won't be raped in the exam) after this i wil try to end SQLI and solve some CTFs
+
+5:07 PM===>i end this exam and i was fucked on it and it is proof i should study seriously more than now , so i will go to walking and i will study SQLI in HTB academy and THM and end https://www.hacksplaining.com/exercises/sql-injection
+and https://application.security/free-application-security-training/owasp-top-10-sql-injection and solve some exercisec on [lord of SQLI](https://los.rubiya.kr/)
