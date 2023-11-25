@@ -26,3 +26,5 @@ and https://application.security/free-application-security-training/owasp-top-10
 ------2023/11/25--------
 
 6:56 AM==>so we will start see xss in cyber talent
+
+7:25 AM==>end searching for cookies CTF in cybertalents
