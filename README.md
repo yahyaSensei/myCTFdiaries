@@ -28,3 +28,5 @@ and https://application.security/free-application-security-training/owasp-top-10
 6:56 AM==>so we will start see xss in cyber talent
 
 7:25 AM==>end searching for cookies CTF in cybertalents
+
+12:30 PM==>end hacksplaninng modules in XSS
