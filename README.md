@@ -30,3 +30,19 @@ and https://application.security/free-application-security-training/owasp-top-10
 7:25 AM==>end searching for cookies CTF in cybertalents
 
 12:30 PM==>end hacksplaninng modules in XSS
+
+12:37 PM==> so we must now to train in some sites in XSS
+
+at first tryhackme https://tryhackme.com/room/xss
+
+then [root me xss challenge](https://www.root-me.org/en/Challenges/Web-Client/)
+
+then see this sites 
+
+- http://www.sudo.co.il/xss/?fbclid=IwAR3hPqGMAw9_QSuiqneEIxiKdLgJrt-aGvaUmi5wiREAE8fu3q5PMzaG8vw
+
+- https://xss-game.appspot.com/
+
+- https://alf.nu/alert1?world=alert&level=alert0
+
+but i will do this after end IC study and college lab project
