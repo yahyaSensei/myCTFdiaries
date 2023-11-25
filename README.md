@@ -22,3 +22,7 @@ and https://application.security/free-application-security-training/owasp-top-10
 9:30 PM==>end who am i ? CTF in cyber talent
 
 10:00 PM==> end I am legend and modify code CTF in cybertalent
+
+------2023/11/25--------
+
+6:56 AM==>so we will start see xss in cyber talent
