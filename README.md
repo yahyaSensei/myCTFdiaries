@@ -50,3 +50,7 @@ but i will do this after end IC study and college lab project
 4:18 PM==>thanks god exam is not tommorow so i will continue in postpone my duties(العولقة الفارغة)
 
 5:56 PM==>فلت منيهم
+
+------2023/11/26--------
+
+6:19 PM==>really a7a final exam will be in jan month i wanna cry
