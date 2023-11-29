@@ -54,3 +54,9 @@ but i will do this after end IC study and college lab project
 ------2023/11/26--------
 
 6:19 PM==>really a7a final exam will be in jan month i wanna cry
+
+------2023/11/27--------
+
+------2023/11/28--------
+
+------2023/11/29--------
