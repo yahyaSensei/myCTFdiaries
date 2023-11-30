@@ -62,3 +62,7 @@ but i will do this after end IC study and college lab project
 ------2023/11/29--------
 
 11:11 AM==>end tryhackme room in XSS
+
+------2023/11/30--------
+
+3:43 PM==>end root-me XSS challenges to reflected
