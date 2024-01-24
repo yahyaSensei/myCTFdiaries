@@ -66,3 +66,8 @@ but i will do this after end IC study and college lab project
 ------2023/11/30--------
 
 3:43 PM==>end root-me XSS challenges to reflected
+
+
+
+------2024/01/24--------
+9:34==>lets hope we will not die
